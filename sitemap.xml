@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/googled7d320f63ff8117f.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/20/2020-9-20%E5%8A%9B%E6%89%A3%E5%91%A8%E8%B5%9B%E7%AC%AC%E4%B8%89%E9%A2%98/</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/20/hello-world/</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/DP-%E4%BA%8C%E7%BB%B4/</loc>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/categories/algo/</loc>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
